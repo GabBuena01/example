@@ -1,0 +1,14 @@
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\bin\Debug\net8.0\ConsolePrac.exe
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\bin\Debug\net8.0\ConsolePrac.deps.json
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\bin\Debug\net8.0\ConsolePrac.runtimeconfig.json
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\bin\Debug\net8.0\ConsolePrac.dll
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\bin\Debug\net8.0\ConsolePrac.pdb
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\ConsolePrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\ConsolePrac.AssemblyInfoInputs.cache
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\ConsolePrac.AssemblyInfo.cs
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\ConsolePrac.csproj.CoreCompileInputs.cache
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\ConsolePrac.dll
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\refint\ConsolePrac.dll
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\ConsolePrac.pdb
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\ConsolePrac.genruntimeconfig.cache
+C:\Users\Gab Buena\Desktop\Projects\C# Proj\ConsolePrac\obj\Debug\net8.0\ref\ConsolePrac.dll
